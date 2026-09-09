@@ -82,7 +82,7 @@
   - Communication: Discord / LINE Group
 
 ## 7. สรุปขั้นตอนการทำ Requirement Collection & การสัมภาษณ์
-- **คลิปวิดีโอสัมภาษณ์ผู้ใช้งาน (YouTube):** 
+- **คลิปวิดีโอสัมภาษณ์ผู้ใช้งาน (YouTube):** https://youtu.be/tTLWWUjNGt0?si=MbCaEbFKMJBtpVxX
 - **สรุปผลที่ได้จากการสัมภาษณ์:**
 
 ## 8. ผลการประชุมทบทวนการทำงาน
