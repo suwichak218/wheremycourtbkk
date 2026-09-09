@@ -91,5 +91,5 @@
 - **แนวทางแก้ไข:** วางแผนตารางการประชุมล่วงหน้าอย่างน้อย 2 วัน คุยปรึกษากันในกลุ่มมากขึ้น
 
 ## 9. หลักฐานการจัดการโครงการ
-- **Product Backlog:** 
-- **Sprint Backlog (Sprint 1):** 
+- **Product Backlog:** <img width="1345" height="669" alt="Story issue" src="https://github.com/user-attachments/assets/cfa7514d-eb3d-4f8c-9883-58b3056ecf90" />
+- **Sprint Backlog (Sprint 1):** <img width="1346" height="520" alt="Sprint1" src="https://github.com/user-attachments/assets/23210a73-8468-4c7e-815d-28c58406aaa0" />
