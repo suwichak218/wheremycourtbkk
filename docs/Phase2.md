@@ -55,7 +55,7 @@
 ## 4. UI Design & Prototype Screenshots
 
 ### 4.1 Figma Prototype Link & Overview
-**ลิงก์ Figma Design:** https://www.figma.com/proto/V7rcTsqLeaMGApU4bt7l21/WhereMyCourtBKKFinal?node-id=0-1&t=lXfhYA6hN8QP6PrP-1
+**ลิงก์ Figma Design:** https://www.figma.com/design/V7rcTsqLeaMGApU4bt7l21/WhereMyCourtBKKFinal?node-id=21-6477&t=6iatY9JYgsdvJKOt-1
 
 ### 4.2 Website Screenshots
 **หน้า 1:**
