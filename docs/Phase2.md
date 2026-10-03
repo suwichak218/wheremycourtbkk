@@ -1,4 +1,4 @@
-<img width="446" height="445" alt="Screenshot 2026-10-03 192204" src="https://github.com/user-attachments/assets/e98ce965-3746-4c29-92f7-a09edda662eb" /># รายงานโครงการ Phase 2: Initial Design and Prototype
+รายงานโครงการ Phase 2: Initial Design and Prototype
 **โครงการ:** เว็บแอปพลิเคชันค้นหาและคัดกรองสนามบาสเกตบอลในกรุงเทพมหานคร (wheremycourtbkk)
 
 ---
@@ -196,11 +196,29 @@ flowchart LR
 ### 4.2 Website Screenshots
 **หน้า 1:**
 หน้าเข้าสู่ระบบ และ สมัครสมาชิก
-![Uploading Screenshot 2026-10-03 192204.png…]![Uploading Screenshot 2026-10-03 192158.png…]()
-()
 
+<img width="448" height="564" alt="Screenshot 2026-10-03 192158" src="https://github.com/user-attachments/assets/bfd53580-783c-45e0-af2e-27b11a9ff34e" />
+
+<img width="446" height="445" alt="Screenshot 2026-10-03 192204" src="https://github.com/user-attachments/assets/39fae98c-927e-428c-bc95-e48d51db3407" />
+
+การสมัครสมาชิกพร้อม Basketball Profile: เก็บข้อมูลเฉพาะของนักบาสเกตบอลนอกเหนือจากข้อมูลทั่วไป (Username, Email, Password) ได้แก่ ตำแหน่งการเล่น (เช่น PG, SG, SF), เบอร์เสื้อ (#), และ สีเสื้อทีม เพื่อนำไปใช้จัดทีมหรือหาเพื่อนเล่น   
+
+ระบบเข้าสู่ระบบและ บัญชีตัวอย่าง (Demo Account Login): มีตัวเลือก Quick Login ด้วยบัญชีทดสอบ (เช่น "ตั้ม บาสเกตบอล • SG", "แบงค์ Mamba • SF") เพื่ออำนวยความสะดวกให้ผู้ตรวจงานหรือผู้ใช้ทดสอบเข้าใช้งานระบบได้ทันทีโดยไม่ต้องลงทะเบียนใหม่
 
 **หน้า 2:**
+หน้าหลัก (Interactive Map & Search System)
+
+<img width="1901" height="986" alt="Screenshot 2026-10-03 192035" src="https://github.com/user-attachments/assets/0beee585-8639-4245-88ef-e0c40a06a4c2" />
+
+<img width="910" height="922" alt="Screenshot 2026-10-03 192041" src="https://github.com/user-attachments/assets/8df5bd1e-c7eb-4099-b066-ba734cfd9467" />
+
+ระบบค้นหาและตัวกรอง (Search & Filter): รองรับการค้นหาตามชื่อสนาม/ทำเล และมี Filter ลัด เช่น เล่นฟรี, สนามเช่า, ในร่ม, กลางแจ้ง, ระยะห่างจาก BTS/MRT (< 500 ม. / < 1 กม.) และสถานะเปิดใช้งานขณะนั้น
+
+แผนที่แสดงตำแหน่งสนาม (Interactive Map): แสดง Pin ตำแหน่งสนามบาสเกตบอลทั่วกรุงเทพฯ เชื่อมโยงกับ Google Maps พร้อมจุดสังเกตสถานี BTS/MRT
+
+ระบบรายงานสถานะความหนาแน่นของผู้เล่น (Live Crowd Status): แสดงสถานะจำนวนคนในสนามแบบ Real-time เช่น "คนปานกลาง (รอ 1 ทีม)" หรือ "คนแน่นมาก (รอคิว 3-4 ทีม)" ช่วยให้ผู้ใช้ตัดสินใจก่อนเดินทาง
+
+การแสดงข้อมูลรายละเอียดสนาม: แสดงจำนวนแป้น/คอร์ท, ชนิดพื้นสนาม (เช่น พื้นยางสังเคราะห์ Acrylic, ปูนเรียบขัดมัน, Coated Concrete), เวลาเปิด-ปิด, ระยะทางจากรถไฟฟ้า และคะแนนรีวิว
 
 ## 5. กระบวนการทำงาน (Process, Methods, and Tools ที่เพิ่มเติมจาก Phase 1)
 **การติดตามสถานะงาน (Project Tracking):** ใช้ GitHub Projects ในรูปแบบ Kanban Board แบ่งสถานะงานเป็น Todo, In Progress, Done
