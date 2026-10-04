@@ -241,6 +241,8 @@ flowchart LR
 ## 6. สรุปการประชุมทบทวนการทำงาน (Sprint Retrospective)
 **ลิงก์วิดีโอ Retrospective (YouTube):**
 
+https://youtu.be/tV04ManipXI
+
 ### 6.1 สิ่งที่ทำได้ดี (What went well)
 
 ### 6.2 ปัญหาและอุปสรรคที่พบ (What could be improved)
