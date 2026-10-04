@@ -230,9 +230,9 @@ flowchart LR
 
 **ความถี่ของการประชุม (Scrum Cadence):** จัดประชุม Standup ประจำสัปดาห์สัปดาห์ละ 1-2 ครั้ง ผ่าน Discord
 
-**ข้อกำหนดการตั้งชื่อ Branch (Branching Convention):**
+**ข้อกำหนดการตั้งชื่อ Branch (Branching Convention):** <ประเภท>/<เลข Issue>-<ชื่องานสั้นๆ>
 
-**รูปแบบ Commit Message (Commit Formatting):**
+**รูปแบบ Commit Message (Commit Formatting):** <ประเภท>: <คำอธิบายสิ่งที่แก้ไข>
 
 **เครื่องมือและการสื่อสาร (Communication Tools):**
 -**Discord:** ใช้สำหรับการประชุมอัปเดตงาน ประชุม Retrospective และแชร์หน้าจอเขียนโค้ด
